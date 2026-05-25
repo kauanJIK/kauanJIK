@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Kauan dos Santos Campois! 👋
 
-<!--
-**kauanJIK/kauanJIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor iniciante focado em construir uma base sólida em programação e bancos de dados. Atualmente, estou dedicando meus estudos a projetos práticos e desenvolvimento de lógica.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou praticando
+* **Linguagens:** Java e Python
+* **Desenvolvimento Web:** HTML
+* **Banco de Dados:** SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Meus Próximos Passos
+* Criar os primeiros projetos de lógica com Java e Python.
+* Praticar consultas e modelagem de dados com SQL.
+* Adicionar CSS e JavaScript aos meus conhecimentos de HTML.
+
+---
+*Este perfil está em constante evolução. Sinta-se à vontade para explorar meus repositórios!*
